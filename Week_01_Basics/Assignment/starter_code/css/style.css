@@ -1,0 +1,52 @@
+body {
+	background: white;
+	border-top: 3px solid #000;
+	border-bottom: 3px solid #000;
+	font-family: helvetica;
+	margin: 0 auto;
+	margin-top: 20px;
+	max-width: 800px;
+}
+
+#nav {
+	text-align: center;
+}
+
+#name {
+	text-align: center;
+	font-size: 30px;
+}
+
+#avatar {
+	float: right;
+	width: 200px;
+	border-style: solid;
+	border-width: thick;
+	border-color: white;
+}
+
+#picture {
+	border-top: 1px solid #0000;
+	border-bottom: 5px solid #0000;
+	padding: 10px 20px 20px 20px;
+}
+
+#links {
+	padding: 10px;
+	display: inline;
+	border-top: 1px soli #0000;
+	padding: 20px  10px 0px 10px
+}
+
+#image {
+	width: 700px;
+	border-style: solid;
+	border-radius: thick;
+	border-color: white;
+	padding-top: 40px;
+}
+
+#content {
+	border-top: 1px solid #0000;
+	padding-top: 20px;
+}
