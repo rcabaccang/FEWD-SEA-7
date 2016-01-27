@@ -67,5 +67,5 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 
 ###Evaluation / Submission
 
-Students will create a new repository on GitHub called "homework-landingpage" and push their code to it when they are ready to submit. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2). Bonus sections are completely optional. The maximum possible score on this assignment is 14/14. 
+Students will push their completed assignment to their student repository. Instructors will provide feedback on GitHub.
 

@@ -1,0 +1,68 @@
+* {
+	box-sizing: border-box;
+}
+
+.cta {
+	background-color: #FFFF6C;
+	border: none;
+	height: 32px;
+	width: 0 auto;
+	padding: 10px 20px 30px 20px;
+	-moz-box-shadow: 0px 0px 5px 0px #aaa;
+	-webkit-box-shadow: 0px 0px 5px 0px #aaa;
+	box-shadow: 0px 0px 5px 0px #aaa;
+	font-family: 'Oswald', sans-serif;
+	font-size: 13px;
+	border-radius: 3px;
+}
+
+.cta2 {
+	background-color: #CCCCCC;
+	border: none;
+	height: 32px;
+	width: 0 auto;
+	padding: 10px 20px 30px 20px;
+	-moz-box-shadow: 0px 0px 3px 0px #444;
+	-webkit-box-shadow: 0px 0px 3px 0px #444;
+	box-shadow: 0px 0px 3px 0px #444;
+	font-family: 'Oswald', sans-serif;
+	font-size: 13px;
+	border-radius: 3px;
+}
+
+.black {
+	background-color: black;
+	border: none;
+	color: white;
+}
+
+.gray {
+	background-color: #CCC;
+	border: 1px solid #808080;
+}
+
+.white {
+	background-color: rgba(255, 255, 255, .85);
+	padding: 24px;
+	box-shadow: 0px 0px 5px 0px black;
+}
+
+.col {
+	background-color: white;
+	border-right: 1px solid #CCCCCC;
+	margin-top: 14px;
+	margin-bottom: 35px;
+	padding-right: 10px;
+	font-size: 20px;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+* html .clearfix             { zoom: 1; } /* IE6 */
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */

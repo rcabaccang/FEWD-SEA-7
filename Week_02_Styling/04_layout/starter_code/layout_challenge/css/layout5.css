@@ -1,0 +1,121 @@
+body {
+	width: 800px;
+	margin: 0 auto;
+}
+
+header,
+footer {
+	height: 125px;
+	clear: both;
+	margin: 16px 0;
+}
+
+header {
+	float: left;
+	display: block;
+	height: 200px;
+	width: 100px;
+}
+
+nav1 {
+	float: right;
+	display: block;
+	width: 100px;
+	height: 35px;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+
+nav2 {
+	float: right;
+	display: block;
+	width: 100px;
+	height: 35px;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+
+nav3 {
+	float: right;
+	display: block;
+	width: 100px;
+	height: 35px;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+
+nav4 {
+	float: right;
+	display: block;
+	width: 100px;
+	height: 35px;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+
+nav5 {
+	float: right;
+	display: block;
+	width: 100px;
+	height: 35px;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+
+topbar {
+	float: right;
+	height: 100px;
+	width: 600px;
+	margin-left: 25px;
+	margin-bottom: 25px;
+}
+
+bigleftbar {
+	float: left;
+	height: 600px;
+	width: 170px;
+}
+
+rec1 {
+	float: right;
+	width: 125px
+	height: 300px;
+	margin-left: 25px;
+	margin-bottom: 25px;
+}
+
+rec2 {
+	float: right;
+	width: 450px;
+	height: 300px;
+	margin-left: 25px;
+	margin-bottom: 25px;
+}
+
+box1 {
+	float: right;
+	height: 150px;
+	width: 125px;
+	margin-left: 25px;
+}
+
+box2 {
+	float: right;
+	height: 150px;
+	width: 125px;
+	margin-left: 25px;
+}
+
+box3 {
+	float: right;
+	height: 150px;
+	width: 125px;
+	margin-left: 25px; 
+}
+
+box4 {
+	float: right;
+	height: 150px;
+	width: 125px;
+	margin-left: 25px;
+}

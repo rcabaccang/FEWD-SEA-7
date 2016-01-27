@@ -46,10 +46,14 @@ Developer @GA in NYC
 /*******************************************/
 
 body {
-     color: #000;
+     background-color: #f0efef;
+     font-color: #033048;
      font-size: 12px;
      line-height: 1.4;
-     font-family: Helvetica, Arial, sans-serif;
+     font-family: 
+     font-weight: light;
+
+     
 }
 
 
@@ -59,21 +63,125 @@ body {
 
 /* Center the container */
 #container {
-  width: 960px;
+  height: 500px;
   margin: auto;
+  width: 100%;
+
 }
 
 header {
+  background-color: #2A4052;
+  height: 100px;
+
 
 }
 
+
+
 footer {
+
+
+}
+
+
+.container {
+  width: 960px;
+  margin-top: 0 auto;
 
 }
 
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+header h1 {
+  font-weight: bold;
+  font-size: 35px;
+  padding: 20px 50px;
+}
+
+header h2 {
+  float: left;
+  font-weight: 600px;
+  font-size: 40px;
+  padding: 50px;
+
+}
+
+header h2,
+header h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+
+}
+
+.cta {
+  padding: 5px 20px;
+  display: inline-block; 
+  color: #fff;
+  text-decoration: none;
+}
+
+.cta.yellow {
+  background-color: #f9e42e;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+  color: #033048;
+  margin: 100px 100px;
+}
+
+.benefits {
+  background-color: #f0efef;
+  padding: 100px 100px;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.testimonial {
+  background: url(../images/testimonial_bg.jpg);
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  padding: 100px 100px;
+  font-weight: 100;
+
+}
+
+h2 {
+  font-color: #033048;
+  font-size: 25px;
+  float: left;
+  margin-top: 70px;
+  margin-left: 80px
+  
+}
+
+img {
+  height: 200px;
+  width: 600px;
+  margin-left: 80px;
+  margin-top: 20px;
+  margin-right: 100px;
+}
+
+p {
+  font-size: 15px;
+  margin: 30px;
+  margin-left: 20px;
+  margin-right: 100px;
+}
+
+h3,
+li {
+  float: right;
+}
+
+
+
+
+
+
 
 
 

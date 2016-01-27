@@ -1,0 +1,47 @@
+body {
+	width: 800px;
+	margin: 0 auto;
+}
+
+header,
+footer {
+	height: 125px;
+	clear: both;
+	margin: 16px 0;
+}
+
+navleft {
+	display: block;
+	height: 350px;
+	width: 390px;
+	float: left;
+}
+
+navright {
+	display: block;
+	height: 350px;
+	width: 390px;
+	float: right;
+	margin-bottom: 16px;
+}
+
+leftsidebar {
+	display: block;
+	height: 175px;
+	width: 250px;
+	float: left;
+	margin-right: 25px;
+}
+
+section {
+	float: left;
+	height: 175px;
+	width: 250px;
+}
+
+rightsidebar {
+	display: block;
+	height: 175px;
+	width: 250px;
+	float: right;
+}

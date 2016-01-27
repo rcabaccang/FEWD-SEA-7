@@ -1,0 +1,83 @@
+body {
+	width: 800px;
+	margin: 0 auto;
+}
+
+header,
+footer {
+	height: 125px;
+	clear: both;
+	margin: 16px 0;
+}
+
+header {
+	float: left;
+	display: block;
+	height: 100px;
+	width: 200px;
+}
+
+nav1 {
+	float: right;
+	display: block;
+	width: 125px;
+	height: 50px;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+
+nav2 {
+	float: right;
+	display: block;
+	width: 125px;
+	height: 50px;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+
+nav3 {
+	float: right;
+	display: block;
+	width: 125px;
+	height: 50px;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+
+nav4 {
+	float: right;
+	display: block;
+	width: 125px;
+	height: 50px;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+
+article {
+	display: block;
+	width: 800px;
+	height: 300px;
+	margin-bottom: 16px;
+}
+
+
+section {
+	float: left;
+	height: 150px;
+	width: 250px;
+}
+
+leftbar {
+	float: left;
+	display: block;
+	width: 250px;
+	height: 150px;
+	margin-right: 25px;
+}
+
+sidebar {
+	float: right;
+	display: block;
+	width: 250px;
+	height: 150px;
+}
