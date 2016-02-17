@@ -102,6 +102,7 @@ header {
   vertical-align: middle;
   box-shadow: #111 0 0 20px;
 }
+
 #submit-btn {
   background: #ffe500;
   color: #000;
@@ -119,6 +120,7 @@ header {
   font-family: helvetica, arial, sans-serif;
   cursor: pointer;
 }
+
 #submit-btn:hover {
   background: #fff600;
 }
@@ -126,15 +128,19 @@ header {
 .nyc {
   background-image: url(../images/nyc.jpg)
 }
+
 .sf {
   background-image: url(../images/sf.jpg)
 }
+
 .la {
   background-image: url(../images/la.jpg)
 }
+
 .austin {
   background-image: url(../images/austin.jpg)
 }
+
 .sydney {
   background-image: url(../images/sydney.jpg)
 }

@@ -1,0 +1,22 @@
+@media (max-width: 400px) {
+	body {
+		width: 100%;
+		margin: 0 auto;
+	}
+	.row3 {
+		padding: 10px;
+		font-size: 16px;
+	}
+	navright {
+		height: 350px;
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+	}
+	.white {
+		background-color: rgba(255, 255, 255, .85);
+		
+		box-shadow: 0px 0px 5px 0px black;
+	}	
+}

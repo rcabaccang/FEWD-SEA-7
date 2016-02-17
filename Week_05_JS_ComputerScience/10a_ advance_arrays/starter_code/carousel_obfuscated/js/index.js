@@ -53,13 +53,13 @@ $("#back-button").click(function(e) {
 	}
 });	
 	
-	$("#your-vote").change(function(e) {
-		choices[choiceIndex].total = $("#your-vote").val();
-		var sumChoices = 0;
-		for(var i = 0; i < choices.length; i += 1)
+	$("#your-vote").change(
+		function onChange() {
+		var value = $("#your-vote").val()
+			console.log (value);
 			
-				
-	})
+		}
+	);
 
 
 	var updatePage = function() {

@@ -1,0 +1,17 @@
+/* mobile */
+body {
+	background: #000;
+}
+
+@media (min-width: 768px) {
+	body {
+		background: #333;
+	}
+}
+
+
+
+
+
+
+
